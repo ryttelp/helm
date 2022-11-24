@@ -8,6 +8,6 @@ entries:
     digest: 12a5b6495f1af7aae4472055ff971d3fba32c76f7d2f126917bb5fc8bd580f72
     name: owasp
     urls:
-    - https://github.com/ryttelp/helm/owasp-0.1.0.tgz
+    - http://ryttelp.github.io/helm/owasp-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-22T16:16:17.2500244+01:00"
